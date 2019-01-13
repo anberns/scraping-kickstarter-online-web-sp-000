@@ -8,6 +8,7 @@ def create_project_hash
   
   
   # projects: kickstarter.css("li.project.grid_4")
+  # title: project.css("h2.bbcard_name strong a").text
   
   # pry variable = _ sets variable to line above in pry
 end
