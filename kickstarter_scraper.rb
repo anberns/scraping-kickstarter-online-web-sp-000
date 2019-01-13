@@ -9,5 +9,5 @@ def create_project_hash
   
   # projects: kickstarter.css("li.project.grid_4")
   
-  
+  # pry variable = _ sets variable to line above in pry
 end
